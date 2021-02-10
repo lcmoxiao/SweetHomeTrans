@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="netty-all-5.0.0.Alpha2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/netty-all-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/protobuf-java-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

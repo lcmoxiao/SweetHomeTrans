@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="kafkalib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib/kafkalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/lib/kafkalib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/lib/kafkalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/lib/kafkalib" recursive="false" type="SOURCES" />
+  </library>
+</component>
